@@ -1,0 +1,15 @@
+
+h1 {
+    text-align: center;
+}
+
+.editor {
+    border: 1px solid #ccc;
+    padding: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+button {
+    margin-right: 10px;
+}
